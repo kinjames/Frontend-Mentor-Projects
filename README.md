@@ -41,7 +41,18 @@ Users should be able to:
 ## 3 Column Preview Card
 
 ![Mobile Design](./images-newbie/3-column-preview-card-component.jpg)
-![Desktop Design](./images-newbie/3-column-preview-card-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/preview)
+- [livesite](https://kinjames.github.io/preview/)
+
+## Article Preview Component
+
+![Mobile Design](./images-newbie/article-preview-component.jpg)
 
 <p>Built with: 
 <span>HTML |</span>
