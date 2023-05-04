@@ -29,19 +29,25 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshots
+<!-- ### Screenshots
 
 ![Desktop Design](./design/desktop-design.jpg)
 ![Mobile Design](./design/mobile-design.jpg)
 
-### Links
-
-- Solution URL: [Frontend Mentor](https://github.com/kinjames/result-summary)
-- Live Site URL: [Github](https://kinjames.github.io/result-summary/)
+### Links -->
 
 ## Newbie Projects
 
-### Built with
+<h2>3 Column Preview Card</h2>
+![Desktop Design](./images-newbie/3-column-preview-card-component.jpg)
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+- [Github Repo](https://github.com/kinjames/preview)
+- [livesite](https://kinjames.github.io/preview/)
+
+<!-- ### Built with
 
 - React
 - JSX
@@ -52,7 +58,7 @@ Users should be able to:
 The designs were created to the following widths:
 
 - Mobile: 375px
-- Desktop: 1140px
+- Desktop: 1140px -->
 
 ## Author
 
