@@ -29,13 +29,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-<!-- ### Screenshots
-
-![Desktop Design](./design/desktop-design.jpg)
-![Mobile Design](./design/mobile-design.jpg)
-
-### Links -->
-
 ## Newbie Projects
 
 ## 3 Column Preview Card
@@ -60,7 +53,43 @@ Users should be able to:
 </p>
 
 - [Github Repo](https://github.com/kinjames/preview)
-- [livesite](https://kinjames.github.io/preview/)
+- [livesite](https://kinjames.github.io/article-preview/)
+
+## Base Apparel Coming Soon
+
+![Mobile Design](./images-newbie/base-apparel-coming-soon.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/coming-soon-page)
+- [livesite](https://kinjames.github.io/coming-soon-page/)
+
+## FAQ Accordion Card
+
+![Mobile Design](./images-newbie/faq-accordion-card.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/faq-card)
+- [livesite](https://kinjames.github.io/faq-card/)
+
+## Four Card Feature Section
+
+![Mobile Design](./images-newbie/four-card-feature-section.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/four-card-feature-section)
+- [livesite](https://kinjames.github.io/four-card-feature-section/)
 
 <!-- ### Built with
 
