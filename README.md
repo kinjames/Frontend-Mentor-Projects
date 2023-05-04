@@ -39,6 +39,7 @@ Users should be able to:
 ## Newbie Projects
 
 <h2>3 Column Preview Card</h2>
+![Mobile Design](./images-newbie/3-column-preview-card-component.jpg)
 ![Desktop Design](./images-newbie/3-column-preview-card-component.jpg)
 <p>Built with: 
 <span>HTML |</span>
