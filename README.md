@@ -105,11 +105,133 @@ Users should be able to:
 
 <p>Built with: 
 <span>HTML |</span>
-<span>CSS</span>
+<span>CSS | </span>
+<span>JavaScript</span>
 </p>
 
 - [Github Repo](https://github.com/kinjames/interactive-ratings)
 - [livesite](https://kinjames.github.io/interactive-ratings/)
+
+## Intro Component With Sign-Up Form
+
+![Mobile Design](./images-newbie/intro-component-with-signup-form.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/form-validation)
+- [livesite](https://kinjames.github.io/form-validation/)
+
+## NFT Preview Card Component
+
+![Mobile Design](./images-newbie/nft-preview-card-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/nft-card)
+- [livesite](https://kinjames.github.io/nft-card/)
+
+## Order Summary Component
+
+![Mobile Design](./images-newbie/order-summary-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/order-summary)
+- [livesite](https://kinjames.github.io/order-summary/)
+
+## Ping Coming Soon Page
+
+![Mobile Design](./images-newbie/ping-coming-soon-page.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/coming-soon)
+- [livesite](https://kinjames.github.io/coming-soon/)
+
+## Product Preview Card Component
+
+![Mobile Design](./images-newbie/product-preview-card-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/product-price)
+- [livesite](https://kinjames.github.io/product-price/)
+
+## Profile Card Component
+
+![Mobile Design](./images-newbie/profile-card-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/profile-card)
+- [livesite](https://kinjames.github.io/profile-card/)
+
+## QR Code Component
+
+![Mobile Design](./images-newbie/qr-code-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/qr-code)
+- [livesite](https://kinjames.github.io/qr-code/)
+
+## Single Price Grid Component
+
+![Mobile Design](./images-newbie/qr-code-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/price-component)
+- [livesite](https://kinjames.github.io/price-component/)
+
+## Social Proof Section
+
+![Mobile Design](./images-newbie/social-proof-section.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/social-proof)
+- [livesite](https://kinjames.github.io/social-proof/)
+
+## Stats Preview Card Component
+
+![Mobile Design](./images-newbie/stats-preview-card-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/stats-preview)
+- [livesite](https://kinjames.github.io/stats-preview/)
 
 ## Author
 
