@@ -199,7 +199,7 @@ Users should be able to:
 
 ## Single Price Grid Component
 
-![Mobile Design](./images-newbie/qr-code-component.jpg)
+![Mobile Design](./images-newbie/single-price-grid-component.jpg)
 
 <p>Built with: 
 <span>HTML |</span>
