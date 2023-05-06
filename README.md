@@ -96,8 +96,20 @@ Users should be able to:
 <span>CSS</span>
 </p>
 
-- [Github Repo](https://github.com/kinjames/four-card-feature-section)
-- [livesite](https://kinjames.github.io/four-card-feature-section/)
+- [Github Repo](https://github.com/kinjames/single-introductry-page)
+- [livesite](https://kinjames.github.io/single-introductry-page/)
+
+## Interactive Rating Component
+
+![Mobile Design](./images-newbie/interactive-rating-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/interactive-ratings)
+- [livesite](https://kinjames.github.io/interactive-ratings/)
 
 ## Author
 
