@@ -313,6 +313,58 @@ Users should be able to:
 - [Github Repo](https://github.com/kinjames/fylo-dark-theme-landing-page)
 - [livesite](https://kinjames.github.io/flyo-dark-theme-landing-page/)
 
+## Github User Search App
+
+![Mobile Design](./images-junior/github-user-search-app.png)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/github-user-search)
+- [livesite](https://kinjames.github.io/github-user-search/)
+
+## Flyo Landing Page With Two Columns
+
+![Mobile Design](./images-junior/flyo-landing-page-with-two-columns.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/flyo-homepage)
+- [livesite](https://kinjames.github.io/flyo-homepage/)
+
+## Huddle Landing Page With Alternating Feature Blocks
+
+![Mobile Design](./images-junior/huddle-landing-page-with-alternating-feature-blocks.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/h-landing-page)
+- [livesite](https://kinjames.github.io/h-landing-page/)
+
+## Huddle Landing Page With Curved Sections
+
+![Mobile Design](./images-junior/huddle-landing-page-with-curved-sections.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/landing-page-1)
+- [livesite](https://kinjames.github.io/landing-page-1/)
+
 ## Intermediate Projects
 
 ## Advanced Projects
