@@ -235,17 +235,83 @@ Users should be able to:
 
 ## Junior Projects
 
-## Stats Preview Card Component
+## Advice Generator App
 
-![Mobile Design](./images-newbie/stats-preview-card-component.jpg)
+![Mobile Design](./images-junior/advice-generator-app.jpg)
 
 <p>Built with: 
 <span>HTML |</span>
-<span>CSS</span>
+<span>CSS | </span>
+<span>JavaScript</span>
 </p>
 
-- [Github Repo](https://github.com/kinjames/stats-preview)
-- [livesite](https://kinjames.github.io/stats-preview/)
+- [Github Repo](https://github.com/kinjames/advice-generator)
+- [livesite](https://kinjames.github.io/advice-generator/)
+
+## Blogr Landing Page
+
+![Mobile Design](./images-junior/blogr-landing-page.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/blogr-landing-page)
+- [livesite](https://kinjames.github.io/blogr-landing-page/)
+
+## Clipboard Landing Page
+
+![Mobile Design](./images-junior/clipboard-landing-page.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/clipboard-landing-page)
+- [livesite](https://kinjames.github.io/clipboard-landing-page/)
+
+## Coding Bootcamp Testimonial Slider
+
+![Mobile Design](./images-junior/coding-bootcamp-testimonial-slider.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/bootcamp-testimonials)
+- [livesite](https://kinjames.github.io/bootcamp-testimonials/)
+
+## Expense Chart Component
+
+![Mobile Design](./images-junior/expense-chart-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/expenses-chart)
+- [livesite](https://kinjames.github.io/expenses-chart/)
+
+## Flyo Dark Theme Landing Page
+
+![Mobile Design](./images-junior/flyo-dark-theme-landing-page.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/fylo-dark-theme-landing-page)
+- [livesite](https://kinjames.github.io/flyo-dark-theme-landing-page/)
 
 ## Intermediate Projects
 
