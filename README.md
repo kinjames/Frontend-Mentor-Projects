@@ -233,6 +233,26 @@ Users should be able to:
 - [Github Repo](https://github.com/kinjames/stats-preview)
 - [livesite](https://kinjames.github.io/stats-preview/)
 
+## Junior Projects
+
+## Stats Preview Card Component
+
+![Mobile Design](./images-newbie/stats-preview-card-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/stats-preview)
+- [livesite](https://kinjames.github.io/stats-preview/)
+
+## Intermediate Projects
+
+## Advanced Projects
+
+## Guru Projects
+
 ## Author
 
 - Frontend Mentor - [@kinjames](https://www.frontendmentor.io/profile/kinjames)
