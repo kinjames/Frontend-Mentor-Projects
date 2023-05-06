@@ -365,7 +365,124 @@ Users should be able to:
 - [Github Repo](https://github.com/kinjames/landing-page-1)
 - [livesite](https://kinjames.github.io/landing-page-1/)
 
+## Interactive Card Details Form
+
+![Mobile Design](./images-junior/interactive-card-details-form.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/card-details)
+- [livesite](https://kinjames.github.io/card-details/)
+
+## Loopstudios Landing Page
+
+![Mobile Design](./images-junior/loopstudios-landing-page.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/loopstudios)
+- [livesite](https://kinjames.github.io/loopstudios/)
+
+## Pricing Component With Toggle
+
+![Mobile Design](./images-junior/pricing-component-with-toggle-master.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/pricing-component-toggle)
+- [livesite](https://kinjames.github.io/pricing-component-toggle/)
+
+## Project Tracking Component
+
+![Mobile Design](./images-junior/project-tracking-component.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/project-tracking-intro-component)
+- [livesite](https://kinjames.github.io/project-tracking-intro-component/)
+
+## Sunnyside Agency Landing Page
+
+![Mobile Design](./images-junior/sunnyside-agency-landing-page.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/sunnyside)
+- [livesite](https://kinjames.github.io/sunnyside/)
+
+## Testimonial Grid Section
+
+![Mobile Design](./images-junior/testimonial-grid-section.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/grid-testimonials)
+- [livesite](https://kinjames.github.io/grid-testimonials/)
+
+## Time Tracking Dashboard
+
+![Mobile Design](./images-junior/time-tracking-dashboard.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/time-tracking-dashboard)
+- [livesite](https://kinjames.github.io/time-tracking-dashboard/)
+
+## Tip Calculator App
+
+![Mobile Design](./images-junior/tip-calculator-app.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/tip-calculator)
+- [livesite](https://kinjames.github.io/tip-calculator/)
+
 ## Intermediate Projects
+
+## Clock App
+
+![Mobile Design](./images-intermediate/clock-app.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/app-clock)
+- [livesite](https://kinjames.github.io/app-clock/)
 
 ## Advanced Projects
 
