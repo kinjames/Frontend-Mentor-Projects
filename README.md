@@ -474,9 +474,8 @@ Users should be able to:
 ![Mobile Design](./images-junior/tip-calculator-app.jpg)
 
 <p>Built with: 
-<span>HTML |</span>
-<span>CSS | </span>
-<span>JavaScript</span>
+<span>SCSS | </span>
+<span>REACT</span>
 </p>
 
 - [Github Repo](https://github.com/kinjames/news-homepage)
