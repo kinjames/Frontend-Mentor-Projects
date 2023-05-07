@@ -471,7 +471,7 @@ Users should be able to:
 
 ## News Homepage
 
-![Mobile Design](./images-junior/tip-calculator-app.jpg)
+![Mobile Design](./images-junior/news-homepage.jpg)
 
 <p>Built with: 
 <span>SCSS | </span>
