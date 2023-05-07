@@ -469,7 +469,7 @@ Users should be able to:
 - [Github Repo](https://github.com/kinjames/tip-calculator)
 - [livesite](https://kinjames.github.io/tip-calculator/)
 
-## Tip Calculator App
+## News Homepage
 
 ![Mobile Design](./images-junior/tip-calculator-app.jpg)
 
@@ -479,8 +479,8 @@ Users should be able to:
 <span>JavaScript</span>
 </p>
 
-- [Github Repo](https://github.com/kinjames/tip-calculator)
-- [livesite](https://kinjames.github.io/tip-calculator/)
+- [Github Repo](https://github.com/kinjames/news-homepage)
+- [livesite](https://kinjames.github.io/news-homepage/)
 
 ## Intermediate Projects
 
