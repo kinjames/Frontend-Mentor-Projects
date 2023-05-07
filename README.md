@@ -488,6 +488,19 @@ Users should be able to:
 
 ## Guru Projects
 
+## Clock App
+
+![Mobile Design](./images-intermediate/clock-app.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/app-clock)
+- [livesite](https://kinjames.github.io/app-clock/)
+
 ## Author
 
 - Frontend Mentor - [@kinjames](https://www.frontendmentor.io/profile/kinjames)
