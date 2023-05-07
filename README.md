@@ -469,6 +469,19 @@ Users should be able to:
 - [Github Repo](https://github.com/kinjames/tip-calculator)
 - [livesite](https://kinjames.github.io/tip-calculator/)
 
+## Tip Calculator App
+
+![Mobile Design](./images-junior/tip-calculator-app.jpg)
+
+<p>Built with: 
+<span>HTML |</span>
+<span>CSS | </span>
+<span>JavaScript</span>
+</p>
+
+- [Github Repo](https://github.com/kinjames/tip-calculator)
+- [livesite](https://kinjames.github.io/tip-calculator/)
+
 ## Intermediate Projects
 
 ## Clock App
